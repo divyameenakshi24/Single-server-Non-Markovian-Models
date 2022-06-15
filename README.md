@@ -15,8 +15,11 @@ Visual components and Python
 
 # Theory:
 
-  
-![image](https://user-images.githubusercontent.com/104613195/173732900-b60f7a92-f18b-4faa-910d-0835cccaa44b.png)
+  Queueing models in which the arrivalas and departures do not follow the Poisson distribution are complex.
+  But, we can find the average number of customers in the sysem for a particular non-Markovian model (M/G/1):(inf/GD model)
+ (M indicates the number of arrivals in time t follows Poisson process) using Pollazack-Khinechine formula
+ 
+  ![image](https://user-images.githubusercontent.com/104613195/173732900-b60f7a92-f18b-4faa-910d-0835cccaa44b.png)
 
  
 # Procedure :
