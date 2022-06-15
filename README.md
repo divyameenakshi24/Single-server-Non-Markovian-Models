@@ -31,7 +31,7 @@ Visual components and Python
 8. Drag robot manager and robot from visual legacy and place in between two conveyors.
 9. Connect all machine trending  inlet, outlet, robot manager and lathe machine using interface menu.
 10. Run the program.
-11. 
+
 # Program :
 
  
