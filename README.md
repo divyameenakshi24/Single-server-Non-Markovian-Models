@@ -1,4 +1,4 @@
-# Single-server-Non-Markovian-Models
+# Single-server-Non-Markovian-Model
 
 # Aim : 
 To find 
